@@ -9,8 +9,8 @@ An individual practical **Internal Assessment** project developed for the Comput
 - **Expected Graduation**: 2029
 - **Email**: [aaryanvijay2007@gmail.com](mailto:aaryanvijay2007@gmail.com)
 - **GitHub Profile**: [https://github.com/Arinnotfound2007](https://github.com/Arinnotfound2007)
-- **Live Deployed Portfolio (Vercel)**: [https://personal-portfolio-iota-six-33.vercel.app](https://personal-portfolio-iota-six-33.vercel.app)
-- **Live Deployed Portfolio (GitHub Pages)**: [https://github.com/Arinnotfound2007](https://github.com/akuckreja08-hub/portfolio)
+- **Live Deployed Portfolio (Vercel)**: [https://portfolio-flax-seven-a91j5tdy4y.vercel.app/]
+- **Live Deployed Portfolio (GitHub Pages)**: [https://github.com/Arinnotfound2007/portfolio/edit/main/README.md]
 
 ---
 
@@ -81,7 +81,7 @@ npx vercel dev
 
 When deploying this project to Vercel:
 
-1. **Import the repository** into Vercel from GitHub (`https://github.com/akuckreja08-hub/portfolio`).
+1. **Import the repository** into Vercel from GitHub (`https://github.com/Arinnotfound2007/portfolio/edit/main/README.md`).
 2. **Add Environment Variable**:
    - **Key**: `GROQ_API_KEY`
    - **Value**: Your private Groq API key (`gsk_...`)
